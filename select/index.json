@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Riot!!!",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-21T19:33:56.603706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Riot",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/01_Riot_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Riot Starter",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/02_Riot_Starter_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TEENAGE RIOT",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_TEENAGE_RIOT_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Riot",
+      "artist": "Mykki Blanco",
+      "has_synced": true,
+      "path": "select/04_Riot_Mykki_Blanco.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Riot (Prod. By Gobby)",
+      "artist": "Mykki Blanco",
+      "has_synced": true,
+      "path": "select/05_Riot_(Prod._By_Gobby)_Mykki_Blanco.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Riot In Cell Block Number Nine",
+      "artist": "The Blues Brothers",
+      "has_synced": false,
+      "path": "select/06_Riot_In_Cell_Block_Number_Nine_The_Blues_Brothers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Riot in Cell Block Number Nine",
+      "artist": "Blues Brothers",
+      "has_synced": true,
+      "path": "select/07_Riot_in_Cell_Block_Number_Nine_Blues_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "New Art Riot",
+      "artist": "Manic Street Preachers",
+      "has_synced": true,
+      "path": "select/08_New_Art_Riot_Manic_Street_Preachers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "À cause des garçons (Riot in Belgium remix)",
+      "artist": "Yelle",
+      "has_synced": false,
+      "path": "select/09_À_cause_des_garçons_(Riot_in_Belgium_remix)_Yelle.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Agenda (feat. Village People & Pussy Riot)",
+      "artist": "Dorian Electra feat. Village People & Pussy Riot",
+      "has_synced": true,
+      "path": "select/10_My_Agenda_(feat._Village_People_&_Pussy_Riot)_Dorian_Electra_feat._Village_People_&_Pussy_Riot.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Agenda (feat. Village People & Pussy Riot)",
+      "artist": "Dorian Electra",
+      "has_synced": true,
+      "path": "select/11_My_Agenda_(feat._Village_People_&_Pussy_Riot)_Dorian_Electra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Predict a Riot (Live From Wembley)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/12_I_Predict_a_Riot_(Live_From_Wembley)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Atari Teenage Riot II",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/13_Atari_Teenage_Riot_II_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Atari Teenage Riot (Live)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/14_Atari_Teenage_Riot_(Live)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Atari Teenage Riot (Live From Hell 13)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/15_Atari_Teenage_Riot_(Live_From_Hell_13)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Atari Teenage Riot (feat. Rowdy SS) (Live From Hell 13)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/16_Atari_Teenage_Riot_(feat._Rowdy_SS)_(Live_From_Hell_13)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Riot!!!",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Riot!!!_ONE_OK_ROCK.txt"
+    }
+  ]
+}
